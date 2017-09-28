@@ -1,0 +1,14 @@
+{
+  "name": "nodeapp1",
+  "version": "1.0.0",
+  "description": "just sample program for node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Oxone",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
